@@ -79,7 +79,7 @@ lazy_static = "1.4"
 
 [target.'cfg(windows)'.dependencies]
 crabgrab = "0.4"
-windows-capture = "1.0"
+windows-capture = "2.0"
 
 [target.'cfg(target_os = "macos")'.dependencies]
 crabgrab = "0.4"
