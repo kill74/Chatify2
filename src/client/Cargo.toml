@@ -46,4 +46,4 @@ zeroize = "1.7"
 cpal = "0.17"
 rodio = "0.18"
 image = "0.25.10"
-ratatui-image = { version = "10.0.6", default-features = false, features = ["crossterm", "image-defaults"] }
+ratatui-image = { version = "11.0.2", default-features = false, features = ["crossterm", "image-defaults"] }
